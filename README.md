@@ -10,8 +10,8 @@ Como gerar leads b2b
 
 💬 Feel free to comment or ask any questions about my open projects. 
 
-<a target="_blank" href="https://www.linkedin.com/in/ricardo-data-engineer-scientist/">
-  <img align="left" alt="Dataseek" width="44px" src=https://dataseek.com.br/wp-content/uploads/2023/10/logo-dataseek.svg    />
+<a target="_blank" href="[[https://www.linkedin.com/in/ricardo-data-engineer-scientist/](https://dataseek.com.br/gere-leads-b2b-qualificados/)](https://dataseek.com.br/gere-leads-b2b-qualificados/)">
+  <img align="left" alt="Dataseek" width="150px" src="https://dataseek.com.br/wp-content/uploads/2023/10/logo-dataseek.svg"    />
 </a>
 <br /><br />
 
