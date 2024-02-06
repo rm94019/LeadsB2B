@@ -15,7 +15,7 @@ In the last 5 year i've started to work with AI - Machine and Deep Learning proj
 
 💬 Feel free to comment or ask any questions about my open projects. 
 
-<a target="_blank" href="https://www.linkedin.com/in/ricardo-data-engineer-scientist/">
+<a target="_blank" href="[https://www.linkedin.com/in/ricardo-data-engineer-scientist/](https://dataseek.com.br/gere-leads-b2b-qualificados/)">
   <img align="left" alt="LinkdeIN" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br /><br />
