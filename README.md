@@ -2,7 +2,7 @@
 Como gerar leads b2b 
 
 
-## 💜 Hello There, I am Ricardo Frasson, Data Engineer and Scientist!
+## 💜 Olá! Vamos juntor gerar e gerenciar seus leads b2b para vendas!
 
 
 -  Big Data ( SQL and NoSQL)
