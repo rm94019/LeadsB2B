@@ -11,7 +11,7 @@ Como gerar leads b2b
 💬 Feel free to comment or ask any questions about my open projects. 
 
 <a target="_blank" href="https://www.linkedin.com/in/ricardo-data-engineer-scientist/">
-  <img align="left" alt="Dataseek" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Dataseek" width="44px" src=https://dataseek.com.br/wp-content/uploads/2023/10/logo-dataseek.svg    />
 </a>
 <br /><br />
 
