@@ -9,10 +9,10 @@ Como gerar leads b2b
 -  Leads Relationship Management Software
 
 💬 Feel free to comment or ask any questions about my open projects. 
-
+ <img align="left" alt="Dataseek" width="150px" src="https://dataseek.com.br/wp-content/uploads/2023/10/logo-dataseek.svg"    />
+ 
 <a target="_blank" href="https://dataseek.com.br/gere-leads-b2b-qualificados/">
-  Base de Leads B2B Qualificados e CRM (LRM) para gerenciamento
-  <img align="left" alt="Dataseek" width="150px" src="https://dataseek.com.br/wp-content/uploads/2023/10/logo-dataseek.svg"    />
+  Base de Leads B2B Qualificados  
 </a>
 <br /><br />
 
