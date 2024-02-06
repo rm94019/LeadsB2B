@@ -4,19 +4,14 @@ Como gerar leads b2b
 
 ## 💜 Hello There, I am Ricardo Frasson, Data Engineer and Scientist!
 
-I got 13 years experience with coding & database programming. <br />
-In the last 5 year i've started to work with AI - Machine and Deep Learning projects as well.
 
-🔭 Ive already managed coding, testing and administration on more than 100 projects dedicated to:
 -  Big Data ( SQL and NoSQL)
--  Web Developement ( Python and .NET/C#)
--  Web Crawling / Scraping ( Python / Linux )
--  AI (Python ) 
+-  Leads Relationship Management Software
 
 💬 Feel free to comment or ask any questions about my open projects. 
 
-<a target="_blank" href="[https://www.linkedin.com/in/ricardo-data-engineer-scientist/](https://dataseek.com.br/gere-leads-b2b-qualificados/)">
-  <img align="left" alt="LinkdeIN" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a target="_blank" href="https://www.linkedin.com/in/ricardo-data-engineer-scientist/">
+  <img align="left" alt="Dataseek" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br /><br />
 
